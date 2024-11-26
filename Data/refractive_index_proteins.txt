@@ -1,0 +1,114 @@
+The refractive index for proteins is approximately equal to ((dn/dc)*ρ-)+1.334, where ρ is equal to 1.22-1.43 (second article), which gives us a range of 1.55-1.65. As you see, that is a narrow window.
+I'll look for other parameters, also. I definitely can find Young modulus, dipole, and hydrophobicity.
+See you tomorrow.
+
+
+I also realised that the refractive index is connected to the hydrophobicity, due to aminoacids properties.
+
+Additionally, we have wax and underneath material properties, but in the beginning, we can ignore them.
+So our limitations are connected.
+
+Amino Acid Hydrophobicity
+In Chimera, amino acid residues are automatically assigned an attribute named kdHydrophobicity, with values according to the hydrophobicity scale of Kyte and Doolittle.
+
+The other scales in the following table are not assigned automatically, but input files to assign them with Define Attribute are linked below. A simple text format allows users to create custom attributes with ease.
+
+Residue Type	kdHydrophobicitya	wwHydrophobicityb	hhHydrophobicityc	mfHydrophobicityd	ttHydrophobicitye
+Ile	4.5	0.31	-0.60	-1.56	1.97
+Val	4.2	-0.07	-0.31	-0.78	1.46
+Leu	3.8	0.56	-0.55	-1.81	1.82
+Phe	2.8	1.13	-0.32	-2.20	1.98
+Cys	2.5	0.24	-0.13	0.49	-0.30
+Met	1.9	0.23	-0.10	-0.76	1.40
+Ala	1.8	-0.17	0.11	0.0	0.38
+Gly	-0.4	-0.01	0.74	1.72	-0.19
+Thr	-0.7	-0.14	0.52	1.78	-0.32
+Ser	-0.8	-0.13	0.84	1.83	-0.53
+Trp	-0.9	1.85	0.30	-0.38	1.53
+Tyr	-1.3	0.94	0.68	-1.09	0.49
+Pro	-1.6	-0.45	2.23	-1.52	-1.44
+His	-3.2	-0.96	2.06	4.76	-1.44
+Glu	-3.5	-2.02	2.68	1.64	-2.90
+Gln	-3.5	-0.58	2.36	3.01	-1.84
+Asp	-3.5	-1.23	3.49	2.95	-3.27
+Asn	-3.5	-0.42	2.05	3.47	-1.62
+Lys	-3.9	-0.99	2.71	5.39	-3.46
+Arg	-4.5	-0.81	2.58	3.71	-2.57
+a A simple method for displaying the hydropathic character of a protein. Kyte J, Doolittle RF. J Mol Biol. 1982 May 5;157(1):105-32.
+
+b Experimentally determined hydrophobicity scale for proteins at membrane interfaces. Wimley WC, White SH. Nat Struct Biol. 1996 Oct;3(10):842-8. Attribute assignment file wwHydrophobicity.txt.
+
+c Recognition of transmembrane helices by the endoplasmic reticulum translocon. Hessa T, Kim H, Bihlmaier K, Lundin C, Boekel J, Andersson H, Nilsson I, White SH, von Heijne G. Nature. 2005 Jan 27;433(7024):377-81, supplementary data. Attribute assignment file hhHydrophobicity.txt. In this scale, negative values indicate greater hydrophobicity.
+
+d Side-chain hydrophobicity scale derived from transmembrane protein folding into lipid bilayers. Moon CP, Fleming KG. Proc Natl Acad Sci USA. 2011 Jun 21;108(25):10174-7, supplementary data. Attribute assignment file mfHydrophobicity.txt. In this scale, negative values indicate greater hydrophobicity.
+
+e An amino acid “transmembrane tendency” scale that approaches the theoretical limit to accuracy for prediction of transmembrane helices: relationship to biological hydrophobicity. Zhao G, London E. Protein Sci. 2006 Aug;15(8):1987-2001. Attribute assignment file ttHydrophobicity.txt (contributed by Shyam M. Saladi).
+
+UCSF Computer Graphics Laboratory / February 2018
+
+Hydrophobicity scales
+Several hydrophobicity scales have been published for various uses. Many of the commonly used hydrophobicity scales are described below.
+
+Kyte-Doolittle scale.The Kyte-Doolittle scale is widely used for detecting hydrophobic regions in proteins. Regions with a positive value are hydrophobic. This scale can be used for identifying both surface-exposed regions as well as transmembrane regions, depending on the window size used. Short window sizes of 5-7 generally work well for predicting putative surface-exposed regions. Large window sizes of 19-21 are well suited for finding transmembrane domains if the values calculated are above 1.6 [Kyte and Doolittle, 1982]. These values should be used as a rule of thumb and deviations from the rule may occur.
+
+Engelman scale. The Engelman hydrophobicity scale, also known as the GES-scale, is another scale which can be used for prediction of protein hydrophobicity [Engelman et al., 1986]. As the Kyte-Doolittle scale, this scale is useful for predicting transmembrane regions in proteins.
+
+Eisenberg scale. The Eisenberg scale is a normalized consensus hydrophobicity scale which shares many features with the other hydrophobicity scales [Eisenberg et al., 1984].
+
+Hopp-Woods scale. Hopp and Woods developed their hydrophobicity scale for identification of potentially antigenic sites in proteins. This scale is basically a hydrophilic index where apolar residues have been assigned negative values. Antigenic sites are likely to be predicted when using a window size of 7 [Hopp and Woods, 1983].
+
+Cornette scale. Cornette et al. computed an optimal hydrophobicity scale based on 28 published scales [Cornette et al., 1987]. This optimized scale is also suitable for prediction of alpha-helices in proteins.
+
+Rose scale. The hydrophobicity scale by Rose et al. is correlated to the average area of buried amino acids in globular proteins [Rose et al., 1985]. This results in a scale which is not showing the helices of a protein, but rather the surface accessibility.
+
+Janin scale. This scale also provides information about the accessible and buried amino acid residues of globular proteins [Janin, 1979].
+
+Welling scale.Welling et al. used information on the relative occurrence of amino acids in antigenic regions to make a scale which is useful for prediction of antigenic regions. This method is better than the Hopp-Woods scale of hydrophobicity which is also used to identify antigenic regions.
+
+Kolaskar-Tongaonkar.A semi-empirical method for prediction of antigenic regions has been developed [Kolaskar and Tongaonkar, 1990]. This method also includes information of surface accessibility and flexibility and at the time of publication the method was able to predict antigenic determinants with an accuracy of 75%.
+
+Surface Probability. Display of surface probability based on the algorithm by [Emini et al., 1985]. This algorithm has been used to identify antigenic determinants on the surface of proteins.
+
+Chain Flexibility.isplay of backbone chain flexibility based on the algorithm by [Karplus and Schulz, 1985]. It is known that chain flexibility is an indication of a putative antigenic determinant.
+
+Many more scales have been published throughout the last three decades. Even though more advanced methods have been developed for prediction of membrane spanning regions, the simple and very fast calculations are still highly used.
+
+aa	aa	Kyte-Doolittle	Hopp-Woods	Cornette	Eisenberg	Rose	Janin	Engelman GES
+A	Alanine	1.80	-0.50	0.20	0.62	0.74	0.30	1.60
+C	Cysteine	2.50	-1.00	4.10	0.29	0.91	0.90	2.00
+D	Aspartic acid	-3.50	3.00	-3.10	-0.90	0.62	-0.60	-9.20
+E	Glutamic acid	-3.50	3.00	-1.80	-0.74	0.62	-0.70	-8.20
+F	Phenylalanine	2.80	-2.50	4.40	1.19	0.88	0.50	3.70
+G	Glycine	-0.40	0.00	0.00	0.48	0.72	0.30	1.00
+H	Histidine	-3.20	-0.50	0.50	-0.40	0.78	-0.10	-3.00
+I	Isoleucine	4.50	-1.80	4.80	1.38	0.88	0.70	3.10
+K	Lysine	-3.90	3.00	-3.10	-1.50	0.52	-1.80	-8.80
+L	Leucine	3.80	-1.80	5.70	1.06	0.85	0.50	2.80
+M	Methionine	1.90	-1.30	4.20	0.64	0.85	0.40	3.40
+N	Asparagine	-3.50	0.20	-0.50	-0.78	0.63	-0.50	-4.80
+P	Proline	-1.60	0.00	-2.20	0.12	0.64	-0.30	-0.20
+Q	Glutamine	-3.50	0.20	-2.80	-0.85	0.62	-0.70	-4.10
+R	Arginine	-4.50	3.00	1.40	-2.53	0.64	-1.40	-12.3
+S	Serine	-0.80	0.30	-0.50	-0.18	0.66	-0.10	0.60
+T	Threonine	-0.70	-0.40	-1.90	-0.05	0.70	-0.20	1.20
+V	Valine	4.20	-1.50	4.70	1.08	0.86	0.60	2.60
+W	Tryptophan	-0.90	-3.40	1.00	0.81	0.85	0.30	1.90
+Y	Tyrosine	-1.30	-2.30	3.20	0.26	0.76	-0.40	-0.70
+
+Other useful resources
+
+AAindex: Amino acid index database
+http://www.genome.ad.jp/dbget/aaindex.html
+
+
+…and conductivity:
+https://pubs.acs.org/doi/10.1021/acs.jpcb.8b07431
+Here we again face redox-active and aromatic aminoacids.
+So, as I mentioned, everything is tightly connected by protein sequence.
+And it gives us a nice beginning for the first level.
+On the next level, we have an organization of these building blocks, and later- nanostructures topography.
+
+
+And dipole:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1933167/#:~:text=The%20major%20components%20of%20protein,%2C%20which%20are%20residue%2Dindependent.
+
