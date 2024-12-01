@@ -1,0 +1,296 @@
+Loaded module: gcc/12.3.0-binutils-2.40
+Loaded module: cuda/12.2.2
+(n_obs, n_lambdas, n_beta) = (100, 10, 10)
+--------------------------------------
+We are computing curves on device!
+--------------------------------------
+
+Initialization and allocation: 0.0068 seconds
+
+Computing covariance matrix: 0.0003 seconds
+
+Cholesky factorization successful.
+
+Cholesky factorization: 0.0476 seconds
+
+HEJ 100 10 10
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+Lprev = -2.562918e+02
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+Lprev = -2.562918e+02
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-350.722352, -256.291782)
+alpha = 0.000000
+u = 0.348924
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-223.603960, -256.291782)
+alpha = 1.000000
+u = 0.515796
+ACCEPTED 0
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-275.331684, -223.603960)
+alpha = 0.000000
+u = 0.263496
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-390.284183, -223.603960)
+alpha = 0.000000
+u = 0.084446
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-229.326408, -223.603960)
+alpha = 0.003272
+u = 0.871805
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-251.607833, -223.603960)
+alpha = 0.000000
+u = 0.554679
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-290.643757, -223.603960)
+alpha = 0.000000
+u = 0.335112
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-255.711858, -223.603960)
+alpha = 0.000000
+u = 0.859823
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-261.840013, -223.603960)
+alpha = 0.000000
+u = 0.690716
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-320.475954, -223.603960)
+alpha = 0.000000
+u = 0.587605
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-245.143807, -223.603960)
+alpha = 0.000000
+u = 0.241313
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-245.869096, -223.603960)
+alpha = 0.000000
+u = 0.092536
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-280.843903, -223.603960)
+alpha = 0.000000
+u = 0.436210
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-313.112681, -223.603960)
+alpha = 0.000000
+u = 0.715858
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-334.676878, -223.603960)
+alpha = 0.000000
+u = 0.064903
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-221.325577, -223.603960)
+alpha = 1.000000
+u = 0.468472
+ACCEPTED 1
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-207.165927, -221.325577)
+alpha = 1.000000
+u = 0.328955
+ACCEPTED 2
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-239.863888, -207.165927)
+alpha = 0.000000
+u = 0.134767
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-234.862786, -207.165927)
+alpha = 0.000000
+u = 0.585277
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-328.115462, -207.165927)
+alpha = 0.000000
+u = 0.192428
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-254.000089, -207.165927)
+alpha = 0.000000
+u = 0.645855
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-245.459975, -207.165927)
+alpha = 0.000000
+u = 0.371223
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-219.391490, -207.165927)
+alpha = 0.000005
+u = 0.451878
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-176.638025, -207.165927)
+alpha = 1.000000
+u = 0.186555
+ACCEPTED 3
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-227.533507, -176.638025)
+alpha = 0.000000
+u = 0.703928
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-216.412010, -176.638025)
+alpha = 0.000000
+u = 0.000037
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-239.804415, -176.638025)
+alpha = 0.000000
+u = 0.757629
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-217.560366, -176.638025)
+alpha = 0.000000
+u = 0.833149
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-260.778139, -176.638025)
+alpha = 0.000000
+u = 0.950362
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-216.664060, -176.638025)
+alpha = 0.000000
+u = 0.581427
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-223.650369, -176.638025)
+alpha = 0.000000
+u = 0.560338
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-260.897403, -176.638025)
+alpha = 0.000000
+u = 0.486458
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-261.338922, -176.638025)
+alpha = 0.000000
+u = 0.646134
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-268.259977, -176.638025)
+alpha = 0.000000
+u = 0.989034
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-227.752073, -176.638025)
+alpha = 0.000000
+u = 0.427600
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-243.959115, -176.638025)
+alpha = 0.000000
+u = 0.712667
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-295.226238, -176.638025)
+alpha = 0.000000
+u = 0.321623
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-168.896476, -176.638025)
+alpha = 1.000000
+u = 0.673571
+ACCEPTED 4
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-225.111507, -168.896476)
+alpha = 0.000000
+u = 0.482213
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-325.957408, -168.896476)
+alpha = 0.000000
+u = 0.678801
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-241.243131, -168.896476)
+alpha = 0.000000
+u = 0.889917
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-257.640865, -168.896476)
+alpha = 0.000000
+u = 0.416759
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-164.696336, -168.896476)
+alpha = 1.000000
+u = 0.637768
+ACCEPTED 5
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-245.206950, -164.696336)
+alpha = 0.000000
+u = 0.069462
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-267.038054, -164.696336)
+alpha = 0.000000
+u = 0.535366
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-281.576929, -164.696336)
+alpha = 0.000000
+u = 0.970579
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-190.133652, -164.696336)
+alpha = 0.000000
+u = 0.186965
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-256.619006, -164.696336)
+alpha = 0.000000
+u = 0.197308
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-256.670836, -164.696336)
+alpha = 0.000000
+u = 0.572688
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-217.628341, -164.696336)
+alpha = 0.000000
+u = 0.627242
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-181.030777, -164.696336)
+alpha = 0.000000
+u = 0.682387
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-224.932676, -164.696336)
+alpha = 0.000000
+u = 0.347259
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-185.822080, -164.696336)
+alpha = 0.000000
+u = 0.401418
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-254.851131, -164.696336)
+alpha = 0.000000
+u = 0.844956
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 100, 1024)
+(Lstar, Lprev) = (-231.776982, -164.696336Terminated
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@hpc.dtu.dk>
+Subject: Job 23132238: <inverse> in cluster <dcc> Exited
+
+Job <inverse> was submitted from host <n-62-11-47> by user <s194146> in cluster <dcc> at Mon Nov 11 18:04:42 2024
+Job was executed on host(s) <64*n-62-12-81>, in queue <gpuh100>, as user <s194146> in cluster <dcc> at Mon Nov 11 18:04:44 2024
+</zhome/00/b/147112> was used as the home directory.
+</zhome/00/b/147112/bioscat/Scripts/C_and_CUDA/main> was used as the working directory.
+Started at Mon Nov 11 18:04:44 2024
+Terminated at Mon Nov 11 18:12:34 2024
+Results reported at Mon Nov 11 18:12:34 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#BSUB -J inverse # name
+#BSUB -o outfiles/inverse_%J.out # output file
+#BSUB -q gpuh100
+#BSUB -n 64 ## cores
+#BSUB -R "rusage[mem=1GB]" 
+#BSUB -W 24:00 # useable time in minutes
+##BSUB -N # send mail when done
+#BSUB -R "span[hosts=1]"
+#BSUB -gpu "num=1:mode=exclusive_process"
+
+module load gcc/12.3.0-binutils-2.40
+module load cuda/12.2.2
+
+OMP_NUM_THREADS=64 python inverse.py
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with exit code 143.
+
+Resource usage summary:
+
+    CPU time :                                   393.00 sec.
+    Max Memory :                                 253 MB
+    Average Memory :                             189.00 MB
+    Total Requested Memory :                     65536.00 MB
+    Delta Memory :                               65283.00 MB
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                9
+    Run time :                                   470 sec.
+    Turnaround time :                            472 sec.
+
+The output (if any) is above this job summary.
+

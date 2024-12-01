@@ -1,0 +1,902 @@
+Loaded module: gcc/12.3.0-binutils-2.40
+Loaded module: cuda/12.2.2
+--------------------------------------
+We are computing curves on device!
+--------------------------------------
+
+Initialization and allocation: 0.0102 seconds
+
+Computing covariance matrix: 0.0003 seconds
+
+Cholesky factorization successful.
+
+Cholesky factorization: 0.0863 seconds
+
+HEJ 30 20 20
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+Lprev = -2.407507e+02
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+Lprev = -2.407507e+02
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-268.183217, -240.750744)
+alpha = 0.000000
+u = 0.076478
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-276.352737, -240.750744)
+alpha = 0.000000
+u = 0.271206
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-253.285016, -240.750744)
+alpha = 0.000004
+u = 0.866704
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-268.861860, -240.750744)
+alpha = 0.000000
+u = 0.614560
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-238.697822, -240.750744)
+alpha = 1.000000
+u = 0.644108
+ACCEPTED 0
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-238.962081, -238.697822)
+alpha = 0.767775
+u = 0.013500
+ACCEPTED 1
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-232.739914, -238.962081)
+alpha = 1.000000
+u = 0.041630
+ACCEPTED 2
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-263.267594, -232.739914)
+alpha = 0.000000
+u = 0.653233
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-249.570176, -232.739914)
+alpha = 0.000000
+u = 0.009260
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-212.572049, -232.739914)
+alpha = 1.000000
+u = 0.970451
+ACCEPTED 3
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-220.228302, -212.572049)
+alpha = 0.000473
+u = 0.590130
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-220.799419, -212.572049)
+alpha = 0.000267
+u = 0.714853
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-232.114642, -212.572049)
+alpha = 0.000000
+u = 0.252225
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-199.029594, -212.572049)
+alpha = 1.000000
+u = 0.160078
+ACCEPTED 4
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-201.539713, -199.029594)
+alpha = 0.081259
+u = 0.382809
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-179.539956, -199.029594)
+alpha = 1.000000
+u = 0.480886
+ACCEPTED 5
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-196.688702, -179.539956)
+alpha = 0.000000
+u = 0.209294
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-191.472875, -179.539956)
+alpha = 0.000007
+u = 0.408052
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-211.277147, -179.539956)
+alpha = 0.000000
+u = 0.413828
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-179.486161, -179.539956)
+alpha = 1.000000
+u = 0.167160
+ACCEPTED 6
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-178.084846, -179.486161)
+alpha = 1.000000
+u = 0.481690
+ACCEPTED 7
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-194.857146, -178.084846)
+alpha = 0.000000
+u = 0.187463
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-200.662247, -178.084846)
+alpha = 0.000000
+u = 0.202091
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-199.272041, -178.084846)
+alpha = 0.000000
+u = 0.356138
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-171.319519, -178.084846)
+alpha = 1.000000
+u = 0.039492
+ACCEPTED 8
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-177.877005, -171.319519)
+alpha = 0.001419
+u = 0.439650
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-190.150023, -171.319519)
+alpha = 0.000000
+u = 0.236275
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-179.167580, -171.319519)
+alpha = 0.000391
+u = 0.564632
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-166.092166, -171.319519)
+alpha = 1.000000
+u = 0.031766
+ACCEPTED 9
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-171.844090, -166.092166)
+alpha = 0.003177
+u = 0.353154
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-166.372655, -166.092166)
+alpha = 0.755414
+u = 0.771264
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-178.568982, -166.092166)
+alpha = 0.000004
+u = 0.962501
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-157.616024, -166.092166)
+alpha = 1.000000
+u = 0.675719
+ACCEPTED 10
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-171.354316, -157.616024)
+alpha = 0.000001
+u = 0.987343
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-160.949426, -157.616024)
+alpha = 0.035672
+u = 0.013987
+ACCEPTED 11
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-151.062123, -160.949426)
+alpha = 1.000000
+u = 0.371364
+ACCEPTED 12
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-183.552068, -151.062123)
+alpha = 0.000000
+u = 0.297485
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-172.783162, -151.062123)
+alpha = 0.000000
+u = 0.866929
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-159.009726, -151.062123)
+alpha = 0.000354
+u = 0.604495
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-177.390585, -151.062123)
+alpha = 0.000000
+u = 0.265953
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-164.239535, -151.062123)
+alpha = 0.000002
+u = 0.631459
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-126.018260, -151.062123)
+alpha = 1.000000
+u = 0.490542
+ACCEPTED 13
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-135.208231, -126.018260)
+alpha = 0.000102
+u = 0.792216
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-160.010310, -126.018260)
+alpha = 0.000000
+u = 0.537734
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-134.640933, -126.018260)
+alpha = 0.000180
+u = 0.810756
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-139.960698, -126.018260)
+alpha = 0.000001
+u = 0.382960
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-149.126649, -126.018260)
+alpha = 0.000000
+u = 0.405607
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-136.244731, -126.018260)
+alpha = 0.000036
+u = 0.437032
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-138.245834, -126.018260)
+alpha = 0.000005
+u = 0.362956
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-136.360777, -126.018260)
+alpha = 0.000032
+u = 0.527292
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-134.210312, -126.018260)
+alpha = 0.000277
+u = 0.581998
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-130.716480, -126.018260)
+alpha = 0.009111
+u = 0.564684
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-159.502042, -126.018260)
+alpha = 0.000000
+u = 0.648052
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-145.282586, -126.018260)
+alpha = 0.000000
+u = 0.953009
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-143.301149, -126.018260)
+alpha = 0.000000
+u = 0.321177
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-132.901928, -126.018260)
+alpha = 0.001024
+u = 0.797937
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-143.383612, -126.018260)
+alpha = 0.000000
+u = 0.364017
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-130.189149, -126.018260)
+alpha = 0.015439
+u = 0.692786
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-137.551442, -126.018260)
+alpha = 0.000010
+u = 0.695905
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-120.606115, -126.018260)
+alpha = 1.000000
+u = 0.719777
+ACCEPTED 14
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-160.271430, -120.606115)
+alpha = 0.000000
+u = 0.340632
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-135.534873, -120.606115)
+alpha = 0.000000
+u = 0.603242
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-136.176061, -120.606115)
+alpha = 0.000000
+u = 0.225897
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-131.758373, -120.606115)
+alpha = 0.000014
+u = 0.418671
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-153.305011, -120.606115)
+alpha = 0.000000
+u = 0.014685
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-120.917122, -120.606115)
+alpha = 0.732708
+u = 0.907411
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-144.668235, -120.606115)
+alpha = 0.000000
+u = 0.247701
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-125.838986, -120.606115)
+alpha = 0.005338
+u = 0.353786
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-118.122425, -120.606115)
+alpha = 1.000000
+u = 0.552165
+ACCEPTED 15
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-108.410772, -118.122425)
+alpha = 1.000000
+u = 0.219445
+ACCEPTED 16
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-107.794820, -108.410772)
+alpha = 1.000000
+u = 0.364618
+ACCEPTED 17
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-104.226012, -107.794820)
+alpha = 1.000000
+u = 0.941060
+ACCEPTED 18
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-119.668219, -104.226012)
+alpha = 0.000000
+u = 0.768087
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-103.033354, -104.226012)
+alpha = 1.000000
+u = 0.135015
+ACCEPTED 19
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-99.351777, -103.033354)
+alpha = 1.000000
+u = 0.589682
+ACCEPTED 20
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-105.234594, -99.351777)
+alpha = 0.002787
+u = 0.318696
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-115.074550, -99.351777)
+alpha = 0.000000
+u = 0.827642
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-115.686264, -99.351777)
+alpha = 0.000000
+u = 0.346258
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-96.986492, -99.351777)
+alpha = 1.000000
+u = 0.908061
+ACCEPTED 21
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-96.658338, -96.986492)
+alpha = 1.000000
+u = 0.213580
+ACCEPTED 22
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-111.313219, -96.658338)
+alpha = 0.000000
+u = 0.099440
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-108.207699, -96.658338)
+alpha = 0.000010
+u = 0.011797
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-97.639077, -96.658338)
+alpha = 0.375034
+u = 0.791931
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-118.738981, -96.658338)
+alpha = 0.000000
+u = 0.121697
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-120.242638, -96.658338)
+alpha = 0.000000
+u = 0.765948
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-95.625932, -96.658338)
+alpha = 1.000000
+u = 0.915226
+ACCEPTED 23
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-106.223936, -95.625932)
+alpha = 0.000025
+u = 0.550764
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-117.078347, -95.625932)
+alpha = 0.000000
+u = 0.507377
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-109.443782, -95.625932)
+alpha = 0.000001
+u = 0.264532
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-110.424477, -95.625932)
+alpha = 0.000000
+u = 0.847399
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-118.834336, -95.625932)
+alpha = 0.000000
+u = 0.143542
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-121.064673, -95.625932)
+alpha = 0.000000
+u = 0.972381
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-96.706003, -95.625932)
+alpha = 0.339571
+u = 0.629885
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-119.031988, -95.625932)
+alpha = 0.000000
+u = 0.239363
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-94.644176, -95.625932)
+alpha = 1.000000
+u = 0.141390
+ACCEPTED 24
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-110.536962, -94.644176)
+alpha = 0.000000
+u = 0.781038
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-113.659956, -94.644176)
+alpha = 0.000000
+u = 0.531455
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-102.077286, -94.644176)
+alpha = 0.000591
+u = 0.798637
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-117.260199, -94.644176)
+alpha = 0.000000
+u = 0.072534
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-114.125307, -94.644176)
+alpha = 0.000000
+u = 0.375757
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-84.142610, -94.644176)
+alpha = 1.000000
+u = 0.932614
+ACCEPTED 25
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-97.504089, -84.142610)
+alpha = 0.000002
+u = 0.341517
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-86.491322, -84.142610)
+alpha = 0.095492
+u = 0.995510
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-88.147045, -84.142610)
+alpha = 0.018235
+u = 0.163959
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-108.719262, -84.142610)
+alpha = 0.000000
+u = 0.213755
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-95.842862, -84.142610)
+alpha = 0.000008
+u = 0.731494
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-119.575177, -84.142610)
+alpha = 0.000000
+u = 0.953755
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-78.127640, -84.142610)
+alpha = 1.000000
+u = 0.951577
+ACCEPTED 26
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-96.974456, -78.127640)
+alpha = 0.000000
+u = 0.966799
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-112.490592, -78.127640)
+alpha = 0.000000
+u = 0.612042
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-88.047476, -78.127640)
+alpha = 0.000049
+u = 0.270421
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-93.874984, -78.127640)
+alpha = 0.000000
+u = 0.505867
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-90.657497, -78.127640)
+alpha = 0.000004
+u = 0.227646
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-82.226964, -78.127640)
+alpha = 0.016584
+u = 0.356021
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-96.688839, -78.127640)
+alpha = 0.000000
+u = 0.551025
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-89.399110, -78.127640)
+alpha = 0.000013
+u = 0.489274
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-87.482338, -78.127640)
+alpha = 0.000087
+u = 0.005677
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-105.265488, -78.127640)
+alpha = 0.000000
+u = 0.115758
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-87.907708, -78.127640)
+alpha = 0.000057
+u = 0.488498
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-102.773181, -78.127640)
+alpha = 0.000000
+u = 0.326939
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-93.299603, -78.127640)
+alpha = 0.000000
+u = 0.158426
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-97.074588, -78.127640)
+alpha = 0.000000
+u = 0.353332
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-88.919113, -78.127640)
+alpha = 0.000021
+u = 0.985820
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-87.836694, -78.127640)
+alpha = 0.000061
+u = 0.423676
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-87.279175, -78.127640)
+alpha = 0.000106
+u = 0.321164
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-88.954429, -78.127640)
+alpha = 0.000020
+u = 0.684085
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-87.672340, -78.127640)
+alpha = 0.000072
+u = 0.991110
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-102.117391, -78.127640)
+alpha = 0.000000
+u = 0.644311
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-75.487393, -78.127640)
+alpha = 1.000000
+u = 0.333774
+ACCEPTED 27
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-82.082640, -75.487393)
+alpha = 0.001367
+u = 0.381458
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-86.923838, -75.487393)
+alpha = 0.000011
+u = 0.001718
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-91.421511, -75.487393)
+alpha = 0.000000
+u = 0.705700
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-93.792504, -75.487393)
+alpha = 0.000000
+u = 0.609552
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-78.003081, -75.487393)
+alpha = 0.080807
+u = 0.083702
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-76.205716, -75.487393)
+alpha = 0.487569
+u = 0.476776
+ACCEPTED 28
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-96.142441, -76.205716)
+alpha = 0.000000
+u = 0.411364
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-103.692308, -76.205716)
+alpha = 0.000000
+u = 0.408153
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-96.589313, -76.205716)
+alpha = 0.000000
+u = 0.563526
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-95.209803, -76.205716)
+alpha = 0.000000
+u = 0.902849
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-85.638996, -76.205716)
+alpha = 0.000080
+u = 0.528781
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-88.997093, -76.205716)
+alpha = 0.000003
+u = 0.323820
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-87.455716, -76.205716)
+alpha = 0.000013
+u = 0.432073
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-101.786017, -76.205716)
+alpha = 0.000000
+u = 0.043312
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-78.117845, -76.205716)
+alpha = 0.147765
+u = 0.455011
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-89.619598, -76.205716)
+alpha = 0.000001
+u = 0.101633
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-88.400522, -76.205716)
+alpha = 0.000005
+u = 0.807054
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-94.621534, -76.205716)
+alpha = 0.000000
+u = 0.126349
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-92.999325, -76.205716)
+alpha = 0.000000
+u = 0.977709
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-111.358395, -76.205716)
+alpha = 0.000000
+u = 0.250322
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-96.206358, -76.205716)
+alpha = 0.000000
+u = 0.788769
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-76.863584, -76.205716)
+alpha = 0.517954
+u = 0.331201
+ACCEPTED 29
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-88.416457, -76.863584)
+alpha = 0.000010
+u = 0.232576
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-89.687383, -76.863584)
+alpha = 0.000003
+u = 0.675372
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-95.340396, -76.863584)
+alpha = 0.000000
+u = 0.728477
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-90.194621, -76.863584)
+alpha = 0.000002
+u = 0.276813
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-107.579564, -76.863584)
+alpha = 0.000000
+u = 0.148349
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-99.798753, -76.863584)
+alpha = 0.000000
+u = 0.836679
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-78.822327, -76.863584)
+alpha = 0.141036
+u = 0.363131
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-86.707905, -76.863584)
+alpha = 0.000053
+u = 0.839130
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-83.814445, -76.863584)
+alpha = 0.000958
+u = 0.575356
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-103.542475, -76.863584)
+alpha = 0.000000
+u = 0.219822
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-99.615206, -76.863584)
+alpha = 0.000000
+u = 0.274974
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-96.212148, -76.863584)
+alpha = 0.000000
+u = 0.713616
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-85.416285, -76.863584)
+alpha = 0.000193
+u = 0.464219
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-124.703046, -76.863584)
+alpha = 0.000000
+u = 0.023822
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-100.914073, -76.863584)
+alpha = 0.000000
+u = 0.914439
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-102.672116, -76.863584)
+alpha = 0.000000
+u = 0.958573
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-84.125286, -76.863584)
+alpha = 0.000702
+u = 0.969111
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-85.065983, -76.863584)
+alpha = 0.000274
+u = 0.391786
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-102.504492, -76.863584)
+alpha = 0.000000
+u = 0.477679
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-105.772296, -76.863584)
+alpha = 0.000000
+u = 0.475626
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-91.216719, -76.863584)
+alpha = 0.000001
+u = 0.880734
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-102.110635, -76.863584)
+alpha = 0.000000
+u = 0.068923
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-95.722649, -76.863584)
+alpha = 0.000000
+u = 0.580579
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-98.029242, -76.863584)
+alpha = 0.000000
+u = 0.033830
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-84.008456, -76.863584)
+alpha = 0.000789
+u = 0.984911
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-82.130552, -76.863584)
+alpha = 0.005159
+u = 0.101303
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-92.157399, -76.863584)
+alpha = 0.000000
+u = 0.075183
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-97.243343, -76.863584)
+alpha = 0.000000
+u = 0.156039
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-87.066168, -76.863584)
+alpha = 0.000037
+u = 0.912332
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-92.875997, -76.863584)
+alpha = 0.000000
+u = 0.886379
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-95.294978, -76.863584)
+alpha = 0.000000
+u = 0.970739
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-80.002662, -76.863584)
+alpha = 0.043323
+u = 0.058795
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-102.818730, -76.863584)
+alpha = 0.000000
+u = 0.993037
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-100.670286, -76.863584)
+alpha = 0.000000
+u = 0.177799
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-60.145441, -76.863584)
+alpha = 1.000000
+u = 0.321245
+ACCEPTED 30
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-75.347979, -60.145441)
+alpha = 0.000000
+u = 0.582337
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-80.246693, -60.145441)
+alpha = 0.000000
+u = 0.438010
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-66.514580, -60.145441)
+alpha = 0.001714
+u = 0.633932
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-79.014422, -60.145441)
+alpha = 0.000000
+u = 0.859888
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-75.814790, -60.145441)
+alpha = 0.000000
+u = 0.795570
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-80.149939, -60.145441)
+alpha = 0.000000
+u = 0.527587
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-69.195849, -60.145441)
+alpha = 0.000117
+u = 0.306811
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-62.124014, -60.145441)
+alpha = 0.138266
+u = 0.146960
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-73.582109, -60.145441)
+alpha = 0.000001
+u = 0.611649
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-73.957479, -60.145441)
+alpha = 0.000001
+u = 0.518990
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-79.948353, -60.145441)
+alpha = 0.000000
+u = 0.225280
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-83.742425, -60.145441)
+alpha = 0.000000
+u = 0.230490
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-92.776288, -60.145441)
+alpha = 0.000000
+u = 0.965882
+(n_test, n_int, n_ext, n_obs, n) = (1024, 1008, 1028, 30, 1024)
+(Lstar, Lprev) = (-74.394580, -60.145441)
+alpha = 0.000001
+u = 0.951449
+Gaussian Process freed!
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@hpc.dtu.dk>
+Subject: Job 23120618: <inverse> in cluster <dcc> Done
+
+Job <inverse> was submitted from host <n-62-11-47> by user <s194146> in cluster <dcc> at Sun Nov 10 17:33:23 2024
+Job was executed on host(s) <64*n-62-12-89>, in queue <gpuh100>, as user <s194146> in cluster <dcc> at Sun Nov 10 17:33:23 2024
+</zhome/00/b/147112> was used as the home directory.
+</zhome/00/b/147112/bioscat/Scripts/C_and_CUDA/main> was used as the working directory.
+Started at Sun Nov 10 17:33:23 2024
+Terminated at Sun Nov 10 18:07:10 2024
+Results reported at Sun Nov 10 18:07:10 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#BSUB -J inverse # name
+#BSUB -o outfiles/inverse_%J.out # output file
+#BSUB -q gpuh100
+#BSUB -n 64 ## cores
+#BSUB -R "rusage[mem=1GB]" 
+#BSUB -W 24:00 # useable time in minutes
+##BSUB -N # send mail when done
+#BSUB -R "span[hosts=1]"
+#BSUB -gpu "num=1:mode=exclusive_process"
+
+module load gcc/12.3.0-binutils-2.40
+module load cuda/12.2.2
+
+OMP_NUM_THREADS=64 python inverse.py
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   2349.00 sec.
+    Max Memory :                                 327 MB
+    Average Memory :                             257.35 MB
+    Total Requested Memory :                     65536.00 MB
+    Delta Memory :                               65209.00 MB
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                9
+    Run time :                                   2053 sec.
+    Turnaround time :                            2027 sec.
+
+The output (if any) is above this job summary.
+

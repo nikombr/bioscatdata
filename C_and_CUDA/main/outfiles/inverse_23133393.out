@@ -1,0 +1,1668 @@
+Loaded module: gcc/12.3.0-binutils-2.40
+Loaded module: cuda/12.2.2
+(n_obs, n_lambdas, n_beta) = (100, 10, 10)
+--------------------------------------
+We are computing curves on device!
+--------------------------------------
+
+Initialization and allocation: 0.0003 seconds
+
+Computing covariance matrix: 0.0003 seconds
+
+Cholesky factorization successful.
+
+Cholesky factorization: 0.0461 seconds
+
+HEJ 100 10 10
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.742945e+00
+Lprev = -3.173209e+02
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.677817e+00
+Lprev = -3.173209e+02
+minimum = 2.893691e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.675126e+00
+ACCEPTED 0
+minimum = 2.804255e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.726335e+00
+minimum = 2.874379e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.685928e+00
+minimum = 2.849459e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.686140e+00
+minimum = 2.858433e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.668092e+00
+ACCEPTED 1
+minimum = 2.787846e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.778009e+00
+ACCEPTED 2
+minimum = 2.733930e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.774171e+00
+ACCEPTED 3
+minimum = 2.807536e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.720447e+00
+ACCEPTED 4
+minimum = 2.786424e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.792585e+00
+ACCEPTED 5
+minimum = 2.744229e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.737276e+00
+minimum = 2.723722e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.705875e+00
+ACCEPTED 6
+minimum = 2.745963e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.755005e+00
+minimum = 2.718727e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.778107e+00
+ACCEPTED 7
+minimum = 2.698913e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.758680e+00
+ACCEPTED 8
+minimum = 2.722723e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.733956e+00
+ACCEPTED 9
+minimum = 2.646803e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.826542e+00
+minimum = 2.725393e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.725771e+00
+ACCEPTED 10
+minimum = 2.647240e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.697480e+00
+ACCEPTED 11
+minimum = 2.666383e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.697296e+00
+ACCEPTED 12
+minimum = 2.700718e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.776869e+00
+ACCEPTED 13
+minimum = 2.667843e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.797993e+00
+minimum = 2.649307e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.766246e+00
+ACCEPTED 14
+minimum = 2.610555e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.717331e+00
+minimum = 2.626806e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.707553e+00
+ACCEPTED 15
+minimum = 2.620531e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.745919e+00
+ACCEPTED 16
+minimum = 2.582361e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.737493e+00
+ACCEPTED 17
+minimum = 2.576719e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.705802e+00
+ACCEPTED 18
+minimum = 2.529326e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.786004e+00
+ACCEPTED 19
+minimum = 2.505544e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.757319e+00
+ACCEPTED 20
+minimum = 2.458246e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.835224e+00
+ACCEPTED 21
+minimum = 2.407709e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.760874e+00
+ACCEPTED 22
+minimum = 2.427800e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.737737e+00
+minimum = 2.481836e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.777055e+00
+minimum = 2.368435e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.725983e+00
+minimum = 2.432466e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.786013e+00
+minimum = 2.346824e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.777429e+00
+ACCEPTED 23
+minimum = 2.337766e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.737454e+00
+minimum = 2.320227e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.825772e+00
+ACCEPTED 24
+minimum = 2.359927e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.806141e+00
+ACCEPTED 25
+minimum = 2.379275e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.705940e+00
+ACCEPTED 26
+minimum = 2.410633e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.796836e+00
+ACCEPTED 27
+minimum = 2.420222e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.865775e+00
+minimum = 2.410978e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.777035e+00
+ACCEPTED 28
+minimum = 2.417664e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.806217e+00
+ACCEPTED 29
+minimum = 2.325069e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.837593e+00
+ACCEPTED 30
+minimum = 2.283289e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.744928e+00
+minimum = 2.306656e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.786027e+00
+minimum = 2.290778e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.777491e+00
+minimum = 2.325857e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.757429e+00
+ACCEPTED 31
+minimum = 2.238126e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.837072e+00
+minimum = 2.302077e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.797024e+00
+minimum = 2.298634e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.957665e+00
+minimum = 2.365950e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.854257e+00
+minimum = 2.312071e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.805103e+00
+ACCEPTED 32
+minimum = 2.319650e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.806113e+00
+minimum = 2.253580e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.797080e+00
+ACCEPTED 33
+minimum = 2.237188e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.825220e+00
+ACCEPTED 34
+minimum = 2.302942e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.854513e+00
+minimum = 2.257808e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.825896e+00
+minimum = 2.243621e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.877187e+00
+minimum = 2.264165e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.796898e+00
+minimum = 2.239284e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.817470e+00
+ACCEPTED 35
+minimum = 2.209702e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.917033e+00
+minimum = 2.243811e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.825967e+00
+ACCEPTED 36
+minimum = 2.189976e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.805520e+00
+ACCEPTED 37
+minimum = 2.171573e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.805872e+00
+minimum = 2.192821e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.866146e+00
+minimum = 2.261347e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.844791e+00
+minimum = 2.202908e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.824272e+00
+ACCEPTED 38
+minimum = 2.212180e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.833027e+00
+minimum = 2.257837e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.826643e+00
+minimum = 2.330711e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.835564e+00
+minimum = 2.218679e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.885037e+00
+ACCEPTED 39
+minimum = 2.226962e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.842298e+00
+minimum = 2.176981e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.891631e+00
+minimum = 2.221964e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.854330e+00
+minimum = 2.242417e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.814120e+00
+ACCEPTED 40
+minimum = 2.218092e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.845411e+00
+minimum = 2.221673e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.828045e+00
+ACCEPTED 41
+minimum = 2.170583e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.833627e+00
+minimum = 2.191776e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.855942e+00
+ACCEPTED 42
+minimum = 2.165894e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.873642e+00
+ACCEPTED 43
+minimum = 2.145863e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.857260e+00
+ACCEPTED 44
+minimum = 2.153261e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.876818e+00
+ACCEPTED 45
+minimum = 2.127716e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.845463e+00
+minimum = 2.176722e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.818830e+00
+minimum = 2.073062e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.796513e+00
+minimum = 2.095412e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.837081e+00
+minimum = 2.252014e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.823388e+00
+minimum = 2.220313e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.885838e+00
+ACCEPTED 46
+minimum = 2.194179e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.846086e+00
+minimum = 2.160843e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.861964e+00
+ACCEPTED 47
+minimum = 2.173872e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.797832e+00
+minimum = 2.148305e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.896528e+00
+ACCEPTED 48
+minimum = 2.171017e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.837440e+00
+minimum = 2.146197e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.844971e+00
+minimum = 2.188270e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.922083e+00
+minimum = 2.176667e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.898157e+00
+ACCEPTED 49
+minimum = 2.163473e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.805111e+00
+ACCEPTED 50
+minimum = 2.180249e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.825718e+00
+minimum = 2.173797e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.956666e+00
+minimum = 2.181353e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.865563e+00
+minimum = 2.223784e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.826064e+00
+ACCEPTED 51
+minimum = 2.239756e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.765704e+00
+minimum = 2.157302e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.974273e+00
+ACCEPTED 52
+minimum = 2.129658e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.885023e+00
+minimum = 2.179599e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.855956e+00
+minimum = 2.078555e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.876702e+00
+minimum = 2.187044e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.816563e+00
+minimum = 2.103879e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.845800e+00
+ACCEPTED 53
+minimum = 2.084249e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.805959e+00
+minimum = 2.122905e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.867174e+00
+minimum = 2.114480e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.941870e+00
+minimum = 2.094093e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.835238e+00
+minimum = 2.148963e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.905945e+00
+minimum = 2.134543e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.834030e+00
+minimum = 2.001926e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.825217e+00
+ACCEPTED 54
+minimum = 1.965731e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.856964e+00
+ACCEPTED 55
+minimum = 1.928555e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.862762e+00
+ACCEPTED 56
+minimum = 1.938393e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.905575e+00
+ACCEPTED 57
+minimum = 1.995198e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.916492e+00
+minimum = 1.952958e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.815852e+00
+minimum = 1.937820e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.813116e+00
+ACCEPTED 58
+minimum = 1.946722e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.837015e+00
+minimum = 1.846919e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.756524e+00
+minimum = 1.961211e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.954453e+00
+ACCEPTED 59
+minimum = 1.928032e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.865968e+00
+minimum = 1.913846e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.901545e+00
+minimum = 1.972428e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.094465e+00
+minimum = 2.018903e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.825328e+00
+ACCEPTED 60
+minimum = 1.951726e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.869076e+00
+minimum = 1.988841e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.907663e+00
+minimum = 1.988971e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.807857e+00
+minimum = 2.033255e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.853966e+00
+ACCEPTED 61
+minimum = 2.113333e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.934594e+00
+minimum = 1.947377e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.061808e+00
+minimum = 2.061115e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.883740e+00
+minimum = 2.085170e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.805116e+00
+minimum = 2.117024e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.818404e+00
+minimum = 1.945213e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.864889e+00
+ACCEPTED 62
+minimum = 1.949237e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.847675e+00
+ACCEPTED 63
+minimum = 2.047443e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.777134e+00
+minimum = 1.922455e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.880149e+00
+minimum = 1.949721e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.983842e+00
+minimum = 1.990073e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.898744e+00
+ACCEPTED 64
+minimum = 2.013017e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.814128e+00
+minimum = 1.954253e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.883878e+00
+minimum = 1.948625e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.784928e+00
+minimum = 1.917787e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.771556e+00
+ACCEPTED 65
+minimum = 1.826437e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.923086e+00
+ACCEPTED 66
+minimum = 1.829270e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.011288e+00
+minimum = 1.834283e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.831891e+00
+minimum = 1.818868e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.801814e+00
+minimum = 1.782108e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.808118e+00
+minimum = 1.784455e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.855426e+00
+minimum = 1.855515e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.805482e+00
+ACCEPTED 67
+minimum = 1.810177e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.904826e+00
+minimum = 1.884302e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.001602e+00
+minimum = 1.784132e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.920243e+00
+ACCEPTED 68
+minimum = 1.856182e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.834710e+00
+minimum = 1.766525e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.764800e+00
+minimum = 1.739951e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.856769e+00
+minimum = 1.835958e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.833673e+00
+minimum = 1.829367e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.802476e+00
+minimum = 1.774875e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.814158e+00
+ACCEPTED 69
+minimum = 1.785813e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.902471e+00
+minimum = 1.851882e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.133837e+00
+ACCEPTED 70
+minimum = 1.922292e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.804747e+00
+ACCEPTED 71
+minimum = 1.914085e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.865784e+00
+ACCEPTED 72
+minimum = 1.938929e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.824419e+00
+ACCEPTED 73
+minimum = 1.847302e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.874330e+00
+minimum = 1.926790e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.805026e+00
+ACCEPTED 74
+minimum = 1.920866e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.996018e+00
+minimum = 1.938540e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.972923e+00
+minimum = 1.902557e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.796830e+00
+minimum = 1.945186e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.835309e+00
+ACCEPTED 75
+minimum = 1.956087e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.845023e+00
+ACCEPTED 76
+minimum = 1.908401e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.935124e+00
+minimum = 2.039466e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.884383e+00
+minimum = 1.935545e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.878259e+00
+minimum = 1.991236e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.992425e+00
+minimum = 1.935332e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.893698e+00
+minimum = 2.001037e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.790928e+00
+minimum = 1.960665e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.825045e+00
+minimum = 1.919544e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.834159e+00
+ACCEPTED 77
+minimum = 1.908376e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.816152e+00
+ACCEPTED 78
+minimum = 1.880266e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.836265e+00
+minimum = 1.912418e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.052443e+00
+ACCEPTED 79
+minimum = 1.893360e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.993065e+00
+minimum = 1.886459e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.862631e+00
+minimum = 1.837107e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.857691e+00
+minimum = 1.967079e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.847309e+00
+minimum = 1.926493e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.893870e+00
+ACCEPTED 80
+minimum = 1.888775e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.873385e+00
+minimum = 1.929326e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.858066e+00
+minimum = 1.913685e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.952067e+00
+ACCEPTED 81
+minimum = 1.917492e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.992771e+00
+minimum = 1.866889e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.948773e+00
+minimum = 1.931090e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.865206e+00
+ACCEPTED 82
+minimum = 1.948630e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.866476e+00
+minimum = 1.969783e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.894929e+00
+minimum = 1.954722e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.895937e+00
+ACCEPTED 83
+minimum = 1.962756e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.846728e+00
+minimum = 1.958751e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.961609e+00
+minimum = 1.944777e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.884730e+00
+ACCEPTED 84
+minimum = 1.967245e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.838011e+00
+ACCEPTED 85
+minimum = 1.950971e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.855403e+00
+ACCEPTED 86
+minimum = 1.879960e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.863932e+00
+minimum = 1.957606e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.915377e+00
+minimum = 1.912070e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.837574e+00
+minimum = 1.966703e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.981038e+00
+ACCEPTED 87
+minimum = 1.928477e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.984837e+00
+ACCEPTED 88
+minimum = 1.915398e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.866600e+00
+minimum = 1.963010e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.894922e+00
+minimum = 1.963897e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.873380e+00
+minimum = 1.906273e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.837520e+00
+ACCEPTED 89
+minimum = 1.895760e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.882650e+00
+minimum = 1.938515e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.853681e+00
+minimum = 1.862567e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.014857e+00
+ACCEPTED 90
+minimum = 1.939747e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.980567e+00
+minimum = 1.913495e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.863921e+00
+minimum = 1.864565e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.837938e+00
+minimum = 1.869851e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.865842e+00
+minimum = 1.840203e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.858829e+00
+minimum = 1.910720e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.880205e+00
+minimum = 1.850666e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.890574e+00
+ACCEPTED 91
+minimum = 1.869083e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.970301e+00
+ACCEPTED 92
+minimum = 1.889676e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.885499e+00
+minimum = 1.900049e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.883681e+00
+minimum = 1.800089e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.942426e+00
+ACCEPTED 93
+minimum = 1.706300e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.859483e+00
+minimum = 1.743780e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.964447e+00
+minimum = 1.852957e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.910555e+00
+minimum = 1.800786e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.942014e+00
+minimum = 1.811150e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.040943e+00
+minimum = 1.806253e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.864345e+00
+minimum = 1.834191e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.858189e+00
+minimum = 1.773863e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.007611e+00
+minimum = 1.826513e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.982844e+00
+minimum = 1.823572e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.944801e+00
+ACCEPTED 94
+minimum = 1.773085e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.001471e+00
+minimum = 1.857722e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.942480e+00
+minimum = 1.894142e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.845394e+00
+ACCEPTED 95
+minimum = 1.859185e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.882670e+00
+minimum = 1.869032e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.893155e+00
+minimum = 1.855739e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.805191e+00
+minimum = 1.872091e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.857217e+00
+ACCEPTED 96
+minimum = 1.870862e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.864225e+00
+minimum = 1.770634e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.009800e+00
+minimum = 1.852147e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.042176e+00
+minimum = 1.848344e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.888747e+00
+minimum = 1.841143e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.895178e+00
+minimum = 1.837694e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.870499e+00
+minimum = 1.849252e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.861955e+00
+minimum = 1.830742e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.864427e+00
+minimum = 1.921026e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.803788e+00
+ACCEPTED 97
+minimum = 1.907499e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.984700e+00
+minimum = 1.859033e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.020287e+00
+minimum = 1.848980e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.851176e+00
+minimum = 1.933318e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.986416e+00
+minimum = 1.982703e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.883062e+00
+ACCEPTED 98
+minimum = 1.994115e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.894016e+00
+minimum = 1.981843e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.830050e+00
+minimum = 1.955870e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.976666e+00
+minimum = 1.989139e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.924529e+00
+minimum = 1.945143e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.857753e+00
+minimum = 1.955257e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.834691e+00
+minimum = 1.907519e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.875249e+00
+minimum = 1.990986e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.824349e+00
+minimum = 1.944474e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.837554e+00
+ACCEPTED 99
+minimum = 1.990747e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.935429e+00
+minimum = 1.986511e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.981340e+00
+minimum = 1.977123e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.061013e+00
+minimum = 1.885829e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.904677e+00
+minimum = 1.947636e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.873638e+00
+minimum = 1.957551e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.860477e+00
+minimum = 1.886713e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.855180e+00
+minimum = 1.889961e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.914516e+00
+minimum = 1.881554e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.964606e+00
+minimum = 1.882201e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.981758e+00
+minimum = 1.961388e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.917430e+00
+minimum = 1.960227e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.896845e+00
+minimum = 1.928512e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.865703e+00
+minimum = 1.843812e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.812803e+00
+minimum = 1.943957e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.853208e+00
+minimum = 1.983049e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.871863e+00
+minimum = 1.845980e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.032473e+00
+minimum = 1.890408e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.991353e+00
+ACCEPTED 100
+minimum = 1.876962e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.926047e+00
+ACCEPTED 101
+minimum = 1.871058e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.864322e+00
+minimum = 1.857899e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.957716e+00
+minimum = 1.923626e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.834361e+00
+minimum = 1.828391e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.823851e+00
+ACCEPTED 102
+minimum = 1.812439e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.854274e+00
+minimum = 1.790151e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.965396e+00
+ACCEPTED 103
+minimum = 1.807504e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.923964e+00
+minimum = 1.730204e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.865310e+00
+minimum = 1.806561e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.874512e+00
+minimum = 1.853846e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.857139e+00
+minimum = 1.848607e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.814231e+00
+ACCEPTED 104
+minimum = 1.848702e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.864928e+00
+minimum = 1.807465e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.010475e+00
+ACCEPTED 105
+minimum = 1.760527e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.980104e+00
+minimum = 1.742131e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.837925e+00
+minimum = 1.860018e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.845597e+00
+ACCEPTED 106
+minimum = 1.766614e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.846190e+00
+minimum = 1.787264e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.845044e+00
+minimum = 1.851657e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.859399e+00
+minimum = 1.891023e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.905248e+00
+minimum = 1.894886e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.023984e+00
+minimum = 1.807625e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.001513e+00
+ACCEPTED 107
+minimum = 1.874603e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.989525e+00
+minimum = 1.763947e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.896635e+00
+minimum = 1.837420e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.876587e+00
+minimum = 1.805551e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.862384e+00
+minimum = 1.791187e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.837040e+00
+minimum = 1.849081e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.999826e+00
+minimum = 1.827914e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.073810e+00
+minimum = 1.810164e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.820910e+00
+minimum = 1.889516e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.867241e+00
+ACCEPTED 108
+minimum = 1.965378e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.885927e+00
+minimum = 1.890924e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.896505e+00
+minimum = 1.828362e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.994538e+00
+minimum = 1.950453e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.923860e+00
+minimum = 1.904027e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.990756e+00
+ACCEPTED 109
+minimum = 1.869567e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.059865e+00
+minimum = 1.926308e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.925711e+00
+minimum = 1.866586e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.911608e+00
+minimum = 1.870816e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.887181e+00
+minimum = 1.919185e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.992845e+00
+minimum = 1.830376e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.050080e+00
+minimum = 1.857715e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.017747e+00
+minimum = 1.801358e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.999951e+00
+minimum = 1.819263e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.103107e+00
+ACCEPTED 110
+minimum = 1.827676e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.876335e+00
+minimum = 1.714460e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.830634e+00
+ACCEPTED 111
+minimum = 1.769214e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.873449e+00
+minimum = 1.712555e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.854334e+00
+minimum = 1.710500e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.830251e+00
+minimum = 1.697021e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.963680e+00
+minimum = 1.807918e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.944005e+00
+ACCEPTED 112
+minimum = 1.795976e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.835639e+00
+minimum = 1.750104e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.965500e+00
+minimum = 1.836878e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.801138e+00
+minimum = 1.818842e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.909725e+00
+minimum = 1.820046e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.853116e+00
+minimum = 1.887065e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.846451e+00
+minimum = 1.750928e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.981146e+00
+minimum = 1.808980e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.974017e+00
+ACCEPTED 113
+minimum = 1.800311e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.875737e+00
+minimum = 1.756593e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.892891e+00
+minimum = 1.878974e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.905994e+00
+minimum = 1.845155e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.965901e+00
+minimum = 1.856398e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.828319e+00
+minimum = 1.779073e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.967553e+00
+minimum = 1.848998e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.954699e+00
+minimum = 1.839117e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.866107e+00
+minimum = 1.907100e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.836273e+00
+minimum = 1.875097e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.889449e+00
+minimum = 1.751331e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.942637e+00
+minimum = 1.832513e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.885636e+00
+minimum = 1.777463e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.885896e+00
+minimum = 1.881563e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.074955e+00
+minimum = 1.769422e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.942736e+00
+minimum = 1.783251e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.884723e+00
+minimum = 1.780399e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.885323e+00
+minimum = 1.897641e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.907526e+00
+minimum = 1.784221e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.899142e+00
+minimum = 1.870633e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.904145e+00
+minimum = 1.831065e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.876168e+00
+minimum = 1.796623e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.989270e+00
+minimum = 1.823388e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.090940e+00
+minimum = 1.844548e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.965906e+00
+minimum = 1.754850e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.846672e+00
+ACCEPTED 114
+minimum = 1.700109e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.973635e+00
+ACCEPTED 115
+minimum = 1.645540e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.860237e+00
+minimum = 1.756986e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.894974e+00
+minimum = 1.677968e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.993573e+00
+minimum = 1.728049e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.932555e+00
+ACCEPTED 116
+minimum = 1.706271e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.896256e+00
+minimum = 1.770482e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.892886e+00
+minimum = 1.760036e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.888939e+00
+minimum = 1.770999e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.918346e+00
+minimum = 1.755929e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.979263e+00
+minimum = 1.769835e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.915268e+00
+minimum = 1.707639e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.993942e+00
+minimum = 1.672906e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.973816e+00
+minimum = 1.770696e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.907211e+00
+minimum = 1.718057e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.925206e+00
+minimum = 1.804993e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.927682e+00
+minimum = 1.705606e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.899862e+00
+minimum = 1.696410e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.902520e+00
+minimum = 1.722028e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.973647e+00
+minimum = 1.671025e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.058836e+00
+minimum = 1.693537e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.884504e+00
+minimum = 1.704291e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.893320e+00
+minimum = 1.712478e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.923239e+00
+ACCEPTED 117
+minimum = 1.738357e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.946034e+00
+minimum = 1.692471e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.908467e+00
+minimum = 1.723252e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.904329e+00
+minimum = 1.735444e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.013212e+00
+minimum = 1.758028e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.069569e+00
+minimum = 1.669306e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.953776e+00
+minimum = 1.785325e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.992047e+00
+minimum = 1.695890e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.969870e+00
+minimum = 1.705456e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.950258e+00
+minimum = 1.678930e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.931019e+00
+minimum = 1.685606e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.955034e+00
+minimum = 1.623075e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.019934e+00
+minimum = 1.730229e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.942249e+00
+ACCEPTED 118
+minimum = 1.734179e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.940941e+00
+ACCEPTED 119
+minimum = 1.699216e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.964123e+00
+minimum = 1.690321e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.012764e+00
+minimum = 1.651178e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.099772e+00
+minimum = 1.618983e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.105578e+00
+minimum = 1.717913e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.060056e+00
+minimum = 1.728955e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.982829e+00
+minimum = 1.757729e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.997446e+00
+minimum = 1.761420e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.949028e+00
+minimum = 1.793518e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.924937e+00
+minimum = 1.734933e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.246587e+00
+minimum = 1.707435e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.148938e+00
+minimum = 1.768944e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.042983e+00
+minimum = 1.719460e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.144932e+00
+minimum = 1.801394e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.052489e+00
+minimum = 1.648706e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.986703e+00
+minimum = 1.675915e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.002904e+00
+ACCEPTED 120
+minimum = 1.715457e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.918639e+00
+minimum = 1.697343e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.958124e+00
+minimum = 1.625271e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.972804e+00
+minimum = 1.709623e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.058805e+00
+ACCEPTED 121
+minimum = 1.637926e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.058653e+00
+minimum = 1.766701e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.958947e+00
+minimum = 1.728856e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.042415e+00
+minimum = 1.738497e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.957854e+00
+minimum = 1.678945e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.921004e+00
+minimum = 1.694062e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.974681e+00
+minimum = 1.690660e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.041576e+00
+minimum = 1.743085e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.078506e+00
+minimum = 1.735777e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.088325e+00
+minimum = 1.705185e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.961323e+00
+minimum = 1.731962e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.040311e+00
+minimum = 1.640961e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.924050e+00
+minimum = 1.693860e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.054006e+00
+minimum = 1.731178e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.949606e+00
+ACCEPTED 122
+minimum = 1.794893e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.089398e+00
+ACCEPTED 123
+minimum = 1.843173e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.122586e+00
+ACCEPTED 124
+minimum = 1.905485e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.973733e+00
+minimum = 1.860773e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.001511e+00
+minimum = 1.856762e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.971531e+00
+minimum = 1.837851e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.008420e+00
+minimum = 1.795658e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.972420e+00
+minimum = 1.722208e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.975747e+00
+minimum = 1.836158e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.175249e+00
+minimum = 1.826702e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.091271e+00
+minimum = 1.821143e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.029265e+00
+minimum = 1.797087e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.992290e+00
+minimum = 1.857291e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.024419e+00
+minimum = 1.780328e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.992492e+00
+minimum = 1.859511e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.008074e+00
+minimum = 1.852248e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.990650e+00
+minimum = 1.831186e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.119507e+00
+minimum = 1.832790e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.157100e+00
+minimum = 1.851946e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.043827e+00
+minimum = 1.865302e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.029454e+00
+minimum = 1.865871e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.076852e+00
+minimum = 1.908849e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.039380e+00
+minimum = 1.831004e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.999090e+00
+minimum = 1.844664e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.110338e+00
+minimum = 1.854311e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.090504e+00
+minimum = 1.720586e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.081586e+00
+minimum = 1.793454e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.995572e+00
+minimum = 1.810871e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.132342e+00
+minimum = 1.842985e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.047512e+00
+minimum = 1.814195e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.046823e+00
+minimum = 1.864572e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 2.992886e+00
+minimum = 1.868594e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.115477e+00
+minimum = 1.876079e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.169051e+00
+minimum = 1.876197e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.060689e+00
+minimum = 1.900355e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.005831e+00
+minimum = 1.833187e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.029516e+00
+minimum = 1.899846e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.023027e+00
+minimum = 1.823300e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.176069e+00
+minimum = 1.902122e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.152994e+00
+minimum = 1.851639e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.152060e+00
+minimum = 1.766224e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.068343e+00
+minimum = 1.778611e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.113999e+00
+minimum = 1.790293e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.065903e+00
+minimum = 1.837240e-08
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Combined time = 3.046618e+00
+minimum =terminate called after throwing an instance of 'std::runtime_error'
+  what():  There was a problem with solving the system!
+/zhome/00/b/147112/.lsbatch/1731360329.23133393.shell: line 15: 2822677 Aborted                 OMP_NUM_THREADS=64 python inverse.py
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@hpc.dtu.dk>
+Subject: Job 23133393: <inverse> in cluster <dcc> Exited
+
+Job <inverse> was submitted from host <n-62-11-47> by user <s194146> in cluster <dcc> at Mon Nov 11 22:25:29 2024
+Job was executed on host(s) <64*n-62-12-81>, in queue <gpuh100>, as user <s194146> in cluster <dcc> at Mon Nov 11 22:25:29 2024
+</zhome/00/b/147112> was used as the home directory.
+</zhome/00/b/147112/bioscat/Scripts/C_and_CUDA/main> was used as the working directory.
+Started at Mon Nov 11 22:25:29 2024
+Terminated at Mon Nov 11 22:52:54 2024
+Results reported at Mon Nov 11 22:52:54 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#BSUB -J inverse # name
+#BSUB -o outfiles/inverse_%J.out # output file
+#BSUB -q gpuh100
+#BSUB -n 64 ## cores
+#BSUB -R "rusage[mem=1GB]" 
+#BSUB -W 24:00 # useable time in minutes
+##BSUB -N # send mail when done
+#BSUB -R "span[hosts=1]"
+#BSUB -gpu "num=1:mode=exclusive_process"
+
+module load gcc/12.3.0-binutils-2.40
+module load cuda/12.2.2
+
+OMP_NUM_THREADS=64 python inverse.py
+------------------------------------------------------------
+
+Exited with exit code 134.
+
+Resource usage summary:
+
+    CPU time :                                   1699.00 sec.
+    Max Memory :                                 389 MB
+    Average Memory :                             298.00 MB
+    Total Requested Memory :                     65536.00 MB
+    Delta Memory :                               65147.00 MB
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                9
+    Run time :                                   1654 sec.
+    Turnaround time :                            1645 sec.
+
+The output (if any) is above this job summary.
+

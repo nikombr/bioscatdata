@@ -1,0 +1,71 @@
+Loaded module: gcc/12.3.0-binutils-2.40
+Loaded module: cuda/12.2.2
+(n_obs, n_lambdas, n_beta) = (100, 10, 10)
+--------------------------------------
+We are computing curves on device!
+--------------------------------------
+
+Initialization and allocation: 0.0003 seconds
+
+Computing covariance matrix: 0.0003 seconds
+
+Cholesky factorization successful.
+
+Cholesky factorization: 0.0544 seconds
+
+Bioscat: (n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+(n_test, n_int, n_ext, n_obs, n) = (624, 608, 628, 100, 624)
+Lprev = -3.173209e+02
+Lprev = -3.176924e+02
+Gaussian Process freed!
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@hpc.dtu.dk>
+Subject: Job 23146636: <inverse> in cluster <dcc> Done
+
+Job <inverse> was submitted from host <hpclogin1> by user <s194146> in cluster <dcc> at Tue Nov 12 11:29:48 2024
+Job was executed on host(s) <64*n-62-12-81>, in queue <gpuh100>, as user <s194146> in cluster <dcc> at Tue Nov 12 11:29:48 2024
+</zhome/00/b/147112> was used as the home directory.
+</zhome/00/b/147112/bioscat/Scripts/C_and_CUDA/main> was used as the working directory.
+Started at Tue Nov 12 11:29:48 2024
+Terminated at Tue Nov 12 12:57:49 2024
+Results reported at Tue Nov 12 12:57:49 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#BSUB -J inverse # name
+#BSUB -o outfiles/inverse_%J.out # output file
+#BSUB -q gpuh100
+#BSUB -n 64 ## cores
+#BSUB -R "rusage[mem=1GB]" 
+#BSUB -W 24:00 # useable time in minutes
+##BSUB -N # send mail when done
+#BSUB -R "span[hosts=1]"
+#BSUB -gpu "num=1:mode=exclusive_process"
+
+module load gcc/12.3.0-binutils-2.40
+module load cuda/12.2.2
+
+OMP_NUM_THREADS=64 python inverse.py
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   5082.00 sec.
+    Max Memory :                                 190 MB
+    Average Memory :                             186.50 MB
+    Total Requested Memory :                     65536.00 MB
+    Delta Memory :                               65346.00 MB
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                9
+    Run time :                                   5281 sec.
+    Turnaround time :                            5281 sec.
+
+The output (if any) is above this job summary.
+

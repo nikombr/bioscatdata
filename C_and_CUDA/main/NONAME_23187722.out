@@ -1,0 +1,98 @@
+import: unable to open X server `' @ error/import.c/ImportImageCommand/346.
+import: unable to open X server `' @ error/import.c/ImportImageCommand/346.
+/zhome/00/b/147112/.lsbatch/1731694155.23187722.shell: line 3: from: command not found
+import: unable to open X server `' @ error/import.c/ImportImageCommand/346.
+import: unable to open X server `' @ error/import.c/ImportImageCommand/346.
+import: unable to open X server `' @ error/import.c/ImportImageCommand/346.
+import: unable to open X server `' @ error/import.c/ImportImageCommand/346.
+import: unable to open X server `' @ error/import.c/ImportImageCommand/346.
+/zhome/00/b/147112/.lsbatch/1731694155.23187722.shell: line 10: syntax error near unexpected token `('
+/zhome/00/b/147112/.lsbatch/1731694155.23187722.shell: line 10: `def executeInverse(num_segments = 1, total_grid_points=100,protein_structure = "demoleus2x2",tau = 1, ell = 1, p=1, covfunc = "squared_exponential"): # "Retinin2x2" or "demoleus2x2"    '
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@hpc.dtu.dk>
+Subject: Job 23187722: <NONAME> in cluster <dcc> Exited
+
+Job <NONAME> was submitted from host <n-62-11-47> by user <s194146> in cluster <dcc> at Fri Nov 15 19:09:15 2024
+Job was executed on host(s) <n-62-31-5>, in queue <hpc>, as user <s194146> in cluster <dcc> at Fri Nov 15 19:09:17 2024
+</zhome/00/b/147112> was used as the home directory.
+</zhome/00/b/147112/bioscat/Scripts/C_and_CUDA/main> was used as the working directory.
+Started at Fri Nov 15 19:09:17 2024
+Terminated at Fri Nov 15 19:09:18 2024
+Results reported at Fri Nov 15 19:09:18 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+import ctypes
+import numpy as np
+from scipy.io import savemat
+import os
+import time
+import matplotlib.pyplot as plt
+import math
+import shutil
+
+def executeInverse(num_segments = 1, total_grid_points=100,protein_structure = "demoleus2x2",tau = 1, ell = 1, p=1, covfunc = "squared_exponential"): # "Retinin2x2" or "demoleus2x2"    
+    # covfunc: covariance function
+    if covfunc == "squared_exponential":
+        type_covfunc = 1
+        hyper = np.array([tau,ell])
+        var = "tau"
+    elif covfunc == "matern":
+        type_covfunc = 2
+        hyper = np.array([p,ell])
+        var = "p"
+        tau = p
+    else:
+        print("Please input a valid covariance function")
+        return
+
+    hyper_arr = (ctypes.c_double * len(hyper))(*hyper)
+
+    so_file = "./so/inverse.so"
+
+    # Get C function
+    c_func = ctypes.CDLL(so_file)
+    protein_structure_encoded = protein_structure.encode('utf-8')
+
+    # Execute C implementation
+    c_func.inverse(protein_structure_encoded, num_segments, total_grid_points, hyper_arr, 2, type_covfunc)
+
+    plt.figure()
+    for i in range(num_segments):
+        filename = f'../../../Data/segments/test_segment_{i+1}.txt'
+        data = np.loadtxt(filename)
+        plt.plot(data[:,0],data[:,1],'r.-')
+  
+
+    
+    for i in range(num_segments):
+        filename = f'../../../Data/segments/ext_segment_{i+1}.txt'
+        data = np.loadtxt(filename)
+        plt.plot(data[:,0],data[:,1],'b.-')
+    
+
+
+
+(... more ...)
+------------------------------------------------------------
+
+Exited with exit code 2.
+
+Resource usage summary:
+
+    CPU time :                                   0.54 sec.
+    Max Memory :                                 -
+    Average Memory :                             -
+    Total Requested Memory :                     1024.00 MB
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              -
+    Max Threads :                                -
+    Run time :                                   36 sec.
+    Turnaround time :                            3 sec.
+
+The output (if any) is above this job summary.
+
