@@ -1,2 +1,0 @@
-accepted delta gamma error Lprev Lstar alpha time
-0 2.000000e-01 5.000000e+05 -1.732301e-04 -86.615054 -86.615054 0.000000 6.915409e-310
